@@ -27,7 +27,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white "TypeScript")][repo]
 [![C](https://img.shields.io/badge/C-CC6699?style=for-the-badge&logo=C&logoColor=white "C")][repo]
 [![Cpp](https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=Cpp&logoColor=white "Cpp")][repo]
-[![C#](https://img.shields.io/badge/C#-007ACC?style=for-the-badge&logo=Cpp&logoColor=white "C#")][repo]
+[![C#](https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=Cpp&logoColor=white "C#")][repo]
 
 ## 🛠️ *DEVOPS TOOLS*
 
