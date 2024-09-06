@@ -3,7 +3,7 @@
 
 ## Consistency Graph:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadaliasghar&exclude_days=Sat,Sun&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadaliasghar&exclude_days=Fri&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
 
 ## 🕸️ *WEB DEV TOOLS*
