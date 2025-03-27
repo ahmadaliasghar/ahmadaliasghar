@@ -1,6 +1,7 @@
 # Hi, I'm Ahmad Ali Asghar! 👋
 
-I'm a passionate full-stack developer with a strong background in web development and cloud technologies. I leverage modern tools and frameworks to build scalable, efficient, and user-friendly applications.
+I'm a results-driven full-stack developer with a proven track record in web development and cloud technologies. I leverage modern tools and frameworks to build scalable, efficient, and user-friendly applications. I've successfully worked on SaaS projects and delivered over 50 high-impact solutions. With hands-on expertise in AWS services to architect robust infrastructures, I excel in backend development using NestJS, Node.js, and Express. I'm also passionate about integrating intelligent features into my projects by utililizing Gen and Agentic AI.
+
 
 ## Consistency Graph:
 
