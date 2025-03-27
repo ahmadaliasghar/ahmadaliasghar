@@ -1,6 +1,4 @@
-# I'm Ahmad Ali Asghar! 👋
-
-## About Me
+# Hi, I'm Ahmad Ali Asghar! 👋
 
 I'm a passionate full-stack developer with a strong background in web development and cloud technologies. I leverage modern tools and frameworks to build scalable, efficient, and user-friendly applications.
 
@@ -24,6 +22,8 @@ I'm a passionate full-stack developer with a strong background in web developmen
 ## 🛠️ *BACKEND TOOLS*
 
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white "NestJS")](https://github.com/ahmadaliasghar)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Node.js")](https://github.com/ahmadaliasghar)
+[![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white "Express")](https://github.com/ahmadaliasghar)
 
 ## 📅 *DATABASES*
 
