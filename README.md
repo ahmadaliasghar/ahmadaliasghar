@@ -24,6 +24,7 @@ I'm a passionate full-stack developer with a strong background in web developmen
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white "NestJS")](https://github.com/ahmadaliasghar)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Node.js")](https://github.com/ahmadaliasghar)
 [![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white "Express")](https://github.com/ahmadaliasghar)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white "Supabase")](https://github.com/ahmadaliasghar)
 
 ## 📅 *DATABASES*
 
@@ -35,6 +36,7 @@ I'm a passionate full-stack developer with a strong background in web developmen
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white "TypeScript")][repo]
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")](https://github.com/ahmadaliasghar)
 [![C](https://img.shields.io/badge/C-CC6699?style=for-the-badge&logo=C&logoColor=white "C")][repo]
 [![Cpp](https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=Cpp&logoColor=white "Cpp")][repo]
 [![C#](https://img.shields.io/badge/CSharp-007ACC?style=for-the-badge&logo=Cpp&logoColor=white "C#")][repo]
